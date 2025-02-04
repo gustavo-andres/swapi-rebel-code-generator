@@ -87,13 +87,13 @@ Build a serverless application that interacts with the Star Wars API (SWAPI) to 
 
 1. **Code Repository:**  
    - Include Python files for all Lambda functions (with comments) and the AWS Step Functions state machine definition (JSON or YAML).
-   - Provide deployment scripts or clear instructions for setting up the API Gateway endpoint.
 
 2. **Endpoint to Test the Solution:**  
    - Provide a working API Gateway endpoint URL that triggers your solution and returns the final secret code in the proper JSON format.
 
 3. **Bonus:**  
    - Provide an Infrastructure as Code template (using CloudFormation, Terraform, or the Serverless Framework) to deploy the solution.
+   - Provide deployment scripts or detailed instructions on how to deploy it
 
 ---
 
