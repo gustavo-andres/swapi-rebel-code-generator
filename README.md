@@ -80,9 +80,8 @@ Build a serverless application that interacts with the Star Wars API (SWAPI) to 
 ## Solution Requirements
 1. All calculations must be performed algorithmically.
 2. No hardcoding of values or results.
-3. All code must include clear comments explaining the logic.
-4. Each function must have a docstring explaining its purpose and parameters.
-5. Record all intermediate outputs and logic in a separate document for review.
+3. All code must include clear comments explaining the logic. (Including all functions inputs and expected outputs)
+4. Record all intermediate outputs and logic in a separate document for review.
 
 ## Deliverables
 
