@@ -67,6 +67,8 @@ Build a serverless application that interacts with the Star Wars API (SWAPI) to 
   }
   ```
 - **Note:**  
+  The output above can be a combination of digits and numbers.
+- **Note:**  
   Record the mapping methods and all intermediate outputs (the letter derived from `episode_id`, the calculated digit, and the first letter of the planet name) that lead to the final secret code.
 
 ### 5. state_machine_trigger
